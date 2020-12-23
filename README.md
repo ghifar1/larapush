@@ -12,4 +12,4 @@ mv .env.example .env
 - :heavy_check_mark: Mozilla desktop
 - :heavy_check_mark: Edge desktop
 - :heavy_check_mark: Chrome Android
-- :heavy_check_mark: Edge Android 'Message notification not showing, just notification'
+- :heavy_check_mark: Edge Android `Message notification not showing, just notification`
